@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["untitled-song", "goose", [59, 108, 213]],
+		["trouble-maker", "goose-angry", [34, 51, 68]],
+		["town-menace", "goose", [34, 51, 68]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "bluething",
+
+	"storyName": "Goose Week",
+	"difficulties": "Hard",
+	"weekBefore": "week1",
+	"weekName": "week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
