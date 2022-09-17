@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Untitled Goose: Psych Engine" file="Untitled Goose" packageName="com.goose.psychengine" package="com.goose.psychengine" main="Main" version="0.2.8" company="ShadowMario" />
+	<app title="Untitled Goose: UntitledEngine" file="Untitled Goose" packageName="com.HouseHouse.Untitledengine" package="com.HouseHouse.Untitledengine" main="Main" version="0.2.8" company="HouseHouse" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
